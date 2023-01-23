@@ -5,6 +5,7 @@ html {
 p {
   /* sizing and position */
   width: 200px;
+  height: 190px;
   margin: auto;
   line-height: 3;
   /* text */
